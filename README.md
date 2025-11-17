@@ -14,10 +14,6 @@ Scrape top news headlines from a public website using Python.
 - scraper.py — main script
 - headlines.txt — scraped output
 
-## How to Run
-pip install requests beautifulsoup4
-python scraper.py
-
 
 ## 📘 What I Learnt
 
